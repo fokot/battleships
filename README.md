@@ -4,7 +4,7 @@ Build in Haskell with some other folks in [Utrecht Summer School in Computing Sc
 
 ![](game.png)
 
-I wanted to bring the game to life with stack. It works somehow but is a little broken. The game is a little broken after such a long time
+I found the game after several years and wanted it to bring the game to life with stack. It works but is buggy
 
 Install gtk and stack first. On mac do
 
