@@ -1,4 +1,4 @@
-#Battleships game
+# Battleships game
 
 Build in Haskell with some other folks in [Utrecht Summer School in Computing Science 2009](http://www.utrechtsummerschool.nl/). It was cool experience!
 
